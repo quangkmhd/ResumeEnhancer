@@ -1,0 +1,47 @@
+VỊ TRÍ: SENIOR FRONTEND DEVELOPER
+
+CÔNG TY ABC TECH
+
+Mô tả công việc:
+Chúng tôi đang tìm kiếm một Senior Frontend Developer có kinh nghiệm để thiết kế và phát triển giao diện người dùng cho các ứng dụng web của chúng tôi. Bạn sẽ làm việc trong một đội ngũ phát triển phần mềm đa chức năng, tập trung vào việc xây dựng các ứng dụng web có khả năng mở rộng cao và hiệu suất tốt.
+
+Trách nhiệm:
+- Phát triển các thành phần giao diện người dùng tương tác và responsive
+- Tối ưu hóa hiệu suất ứng dụng và thời gian tải trang
+- Viết mã sạch, dễ bảo trì và có thể tái sử dụng
+- Thực hiện kiểm thử tự động và đảm bảo chất lượng mã
+- Cộng tác với các nhà thiết kế UX/UI và developer backend
+- Triển khai các ứng dụng web lên môi trường sản xuất
+- Giám sát và cải tiến các ứng dụng hiện có
+- Đóng góp vào quá trình thiết kế kỹ thuật và kiến trúc
+
+Yêu cầu:
+- Tối thiểu 3 năm kinh nghiệm phát triển frontend
+- Thành thạo HTML5, CSS3, JavaScript (ES6+)
+- Kinh nghiệm sâu với React.js và hệ sinh thái của nó (Redux, React Router)
+- Hiểu biết vững về TypeScript
+- Kinh nghiệm với các công cụ xây dựng như Webpack, Babel
+- Hiểu biết về performance optimization và best practices
+- Kinh nghiệm với Git và workflow phát triển phần mềm
+- Kinh nghiệm làm việc trong môi trường Agile/Scrum
+- Kỹ năng giao tiếp tốt và khả năng làm việc nhóm
+- Khả năng tự học hỏi và cập nhật công nghệ mới
+
+Ưu tiên:
+- Kinh nghiệm với các thư viện UI như Material-UI, Ant Design
+- Kinh nghiệm với testing frameworks (Jest, React Testing Library)
+- Hiểu biết về CI/CD và triển khai ứng dụng
+- Kinh nghiệm với các công nghệ server-side như Node.js
+- Chứng chỉ liên quan đến phát triển web
+
+Quyền lợi:
+- Mức lương cạnh tranh và thưởng hiệu suất
+- Chế độ bảo hiểm sức khỏe đầy đủ
+- Môi trường làm việc năng động, sáng tạo
+- Cơ hội học tập và phát triển nghề nghiệp
+- Các hoạt động team building và sự kiện công ty
+
+Địa điểm làm việc: Hà Nội
+Hình thức: Toàn thời gian
+
+Nếu bạn đam mê công nghệ và muốn tham gia vào đội ngũ tài năng của chúng tôi, hãy gửi CV của bạn ngay hôm nay! 

@@ -1,0 +1,55 @@
+NGUYỄN VĂN A
+Email: nguyenvana@email.com | Điện thoại: 0912345678
+LinkedIn: linkedin.com/in/nguyenvana | GitHub: github.com/nguyenvana
+Hà Nội, Việt Nam
+
+GIÁO DỤC
+Đại học ABC, Hà Nội
+Cử nhân Khoa học Máy tính
+2018 - 2022
+- GPA: 3.7/4.0
+- Luận văn: "Ứng dụng Deep Learning trong phân loại hình ảnh y tế"
+
+KINH NGHIỆM LÀM VIỆC
+Công ty XYZ, Hà Nội
+Developer Full-stack
+06/2022 - Hiện tại
+- Phát triển và duy trì các ứng dụng web sử dụng React, Node.js và MongoDB
+- Tối ưu hóa hiệu suất ứng dụng giúp tăng tốc độ tải trang lên 40%
+- Triển khai hệ thống CI/CD sử dụng Jenkins và Docker
+- Làm việc trong môi trường Agile Scrum với chu kỳ sprint 2 tuần
+
+Công ty DEF, Hà Nội
+Thực tập sinh Phát triển Web
+01/2022 - 05/2022
+- Hỗ trợ phát triển giao diện người dùng với HTML, CSS và JavaScript
+- Thực hiện kiểm thử và ghi nhận lỗi cho các tính năng mới
+- Tối ưu hóa CSS giúp giảm thời gian tải trang 25%
+
+KỸ NĂNG
+Ngôn ngữ lập trình: JavaScript, TypeScript, Python, Java
+Frontend: React, HTML5, CSS3, SASS
+Backend: Node.js, Express, Django
+Cơ sở dữ liệu: MongoDB, MySQL, PostgreSQL
+DevOps: Docker, Jenkins, Git, AWS
+Khác: RESTful API, GraphQL, Redux, Agile/Scrum
+
+DỰ ÁN
+Hệ thống Quản lý Nhiệm vụ
+- Phát triển ứng dụng web quản lý nhiệm vụ với React và Firebase
+- Triển khai xác thực người dùng và quản lý phân quyền
+- GitHub: github.com/nguyenvana/task-manager
+
+Ứng dụng Nhận diện Khuôn mặt
+- Xây dựng API nhận diện khuôn mặt với Python và OpenCV
+- Triển khai trên nền tảng AWS Lambda và API Gateway
+- Demo: face-recognition-demo.herokuapp.com
+
+CHỨNG CHỈ
+- AWS Certified Developer - Associate (2023)
+- MongoDB Certified Developer (2022)
+- FreeCodeCamp Full Stack Development Certification (2021)
+
+NGÔN NGỮ
+- Tiếng Việt: Bản ngữ
+- Tiếng Anh: Thành thạo (IELTS 7.0) 

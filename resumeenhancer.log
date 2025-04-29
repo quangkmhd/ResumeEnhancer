@@ -1,0 +1,11 @@
+2025-04-29 21:32:28 | INFO     | resumeenhancer.utils.logger:setup_logger:56 - Đã thiết lập logger với level INFO, lưu vào C:\FPTU\Project\Resume\ResumeEnhancer\resumeenhancer.log
+2025-04-29 21:37:20 | INFO     | resumeenhancer.utils.logger:setup_logger:56 - Đã thiết lập logger với level INFO, lưu vào C:\FPTU\Project\Resume\ResumeEnhancer\resumeenhancer.log
+2025-04-29 21:39:06 | INFO     | resumeenhancer.utils.logger:setup_logger:56 - Đã thiết lập logger với level INFO, lưu vào C:\FPTU\Project\Resume\ResumeEnhancer\resumeenhancer.log
+2025-04-29 21:39:21 | INFO     | resumeenhancer.utils.logger:setup_logger:56 - Đã thiết lập logger với level INFO, lưu vào C:\FPTU\Project\Resume\ResumeEnhancer\resumeenhancer.log
+2025-04-29 21:39:33 | INFO     | resumeenhancer.utils.logger:setup_logger:56 - Đã thiết lập logger với level INFO, lưu vào C:\FPTU\Project\Resume\ResumeEnhancer\resumeenhancer.log
+2025-04-29 21:39:56 | INFO     | resumeenhancer.utils.logger:setup_logger:56 - Đã thiết lập logger với level INFO, lưu vào C:\FPTU\Project\Resume\ResumeEnhancer\resumeenhancer.log
+2025-04-29 21:40:01 | INFO     | resumeenhancer.utils.logger:setup_logger:56 - Đã thiết lập logger với level INFO, lưu vào C:\FPTU\Project\Resume\ResumeEnhancer\resumeenhancer.log
+2025-04-29 21:40:01 | INFO     | resumeenhancer.parsers.pdf_parser:extract_text_from_pdf:21 - Đang đọc file PDF: C:\Users\quang\AppData\Local\Temp\tmp3jpani68.pdf
+2025-04-29 21:40:03 | INFO     | resumeenhancer.utils.ai_service:__init__:41 - Đã khởi tạo dịch vụ AI với model: llama3-8b-8192
+2025-04-29 21:40:03 | INFO     | resumeenhancer.utils.ai_service:analyze_resume:84 - Đang gửi yêu cầu đến Groq API với model llama3-8b-8192
+2025-04-29 21:40:05 | INFO     | resumeenhancer.utils.ai_service:analyze_resume:100 - Nhận được phản hồi từ Groq API sau 1.59 giây

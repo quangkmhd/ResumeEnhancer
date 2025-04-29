@@ -1,0 +1,14 @@
+2025-04-29 21:30:12 | INFO     | resumeenhancer.utils.logger:setup_logger:56 - Đã thiết lập logger với level INFO, lưu vào C:\FPTU\Project\Resume\ResumeEnhancer\examples\resumeenhancer.log
+2025-04-29 21:30:42 | INFO     | resumeenhancer.utils.logger:setup_logger:56 - Đã thiết lập logger với level INFO, lưu vào C:\FPTU\Project\Resume\ResumeEnhancer\examples\resumeenhancer.log
+2025-04-29 21:30:42 | INFO     | resumeenhancer.parsers.text_parser:extract_text_from_txt:20 - Đang đọc file văn bản: sample_resume.txt
+2025-04-29 21:30:42 | INFO     | resumeenhancer.parsers.text_parser:extract_text_from_txt:20 - Đang đọc file văn bản: sample_job_description.txt
+2025-04-29 21:30:43 | INFO     | resumeenhancer.utils.ai_service:__init__:41 - Đã khởi tạo dịch vụ AI với model: llama3-8b-8192
+2025-04-29 21:30:43 | INFO     | resumeenhancer.utils.ai_service:analyze_resume:84 - Đang gửi yêu cầu đến Groq API với model llama3-8b-8192
+2025-04-29 21:30:43 | ERROR    | resumeenhancer.utils.ai_service:analyze_resume:112 - Lỗi khi gọi Groq API: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-04-29 21:33:05 | INFO     | resumeenhancer.utils.logger:setup_logger:56 - Đã thiết lập logger với level INFO, lưu vào C:\FPTU\Project\Resume\ResumeEnhancer\examples\resumeenhancer.log
+2025-04-29 21:33:05 | INFO     | resumeenhancer.parsers.text_parser:extract_text_from_txt:20 - Đang đọc file văn bản: sample_resume.txt
+2025-04-29 21:33:05 | INFO     | resumeenhancer.parsers.text_parser:extract_text_from_txt:20 - Đang đọc file văn bản: sample_job_description.txt
+2025-04-29 21:33:06 | INFO     | resumeenhancer.utils.ai_service:__init__:41 - Đã khởi tạo dịch vụ AI với model: llama3-8b-8192
+2025-04-29 21:33:06 | INFO     | resumeenhancer.utils.ai_service:analyze_resume:84 - Đang gửi yêu cầu đến Groq API với model llama3-8b-8192
+2025-04-29 21:33:07 | INFO     | resumeenhancer.utils.ai_service:analyze_resume:100 - Nhận được phản hồi từ Groq API sau 1.35 giây
+2025-04-29 21:33:07 | INFO     | resumeenhancer.parsers.file_handler:save_text_to_file:66 - Đã lưu kết quả vào file: enhanced_resume.txt
