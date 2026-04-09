@@ -67,11 +67,13 @@ pip install -r requirements.txt
 pip install -e .
 ```
 
-### Method 2: Docker Container
-Best for isolated environments without messing with local Python dependencies.
+### Method 2: Virtual Environment
+Best for isolated environments without messing with global Python dependencies.
 ```bash
-docker build -t resumeenhancer .
-docker run -p 8501:8501 -e GROQ_API_KEY="your_api_key" resumeenhancer
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+pip install -e .
 ```
 
 ### Method 3: Using pip (Future Release)
